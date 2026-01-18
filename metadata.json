@@ -1,0 +1,17 @@
+{
+  "title": "Halloween Minigame",
+  "desc": "2024 Halloween Minigame",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "10/14/2024",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "game",
+    "music",
+    "minigame"
+  ]
+}
